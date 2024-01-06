@@ -15,5 +15,6 @@ int main()
              x=x+1;
         }
         printf("\n");
+        x=x-3;
     }
 }
